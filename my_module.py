@@ -1,2 +1,3 @@
-def func(s):
-    return s + 8
+def func(v):
+    i = v + 3
+    return i
